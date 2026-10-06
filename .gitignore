@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Compiled C++ artifacts
+/ConsolaGit
+*.o
+*.dSYM/
+
+# Build output
+/build/
+/cmake-build-*/
+
+.vs
+/Debug
+/Release
+/x64
+/x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
